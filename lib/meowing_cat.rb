@@ -9,5 +9,5 @@ end
 
 maru = Cat.new
 maru.name = "Maru"
-maru.meow
+puts maru.meow
 puts maru.name
